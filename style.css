@@ -62,7 +62,9 @@ h2 {
   margin-right: 50px;
 }
 @media (max-width: 1200px) {
-
+  body{
+    margin:10px;
+    }
 
   h1 {
     font-size: 2em;
