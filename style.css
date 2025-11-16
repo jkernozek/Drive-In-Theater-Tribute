@@ -65,7 +65,12 @@ h2 {
   body{
     margin: 1%;
     }
-
+ul, ol {
+      text-align: center;
+    }
+    li{
+      text-align: center;
+      }
   h1 {
     font-size: 2em;
     text-align: center;
